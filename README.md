@@ -15,3 +15,17 @@ Here, Google Colab pro tools are used for training the existing code with PyTorc
   year={2021},
   publisher={IEEE}
 }
+
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="@article{zhou2017reinforcevsumm, 
+   title={Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward},
+   author={Zhou, Kaiyang and Qiao, Yu and Xiang, Tao}, 
+   journal={arXiv:1801.00054}, 
+   year={2017} 
+}
+"><pre><code>@article{zhou2017reinforcevsumm, 
+   title={Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward},
+   author={Zhou, Kaiyang and Qiao, Yu and Xiang, Tao}, 
+   journal={arXiv:1801.00054}, 
+   year={2017} 
+}
+</code></pre></div>
